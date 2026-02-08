@@ -1,8 +1,14 @@
 # Laboratorio 1 — Deteccion de Phishing con Machine Learning
-
 **CC3094 — Security Data Science | Semestre I, 2026**  
 Universidad del Valle de Guatemala  
 Seccion 11 — Docente: Jorge Yass
+
+---
+
+## Documentacion
+
+### [Por favor revisar la documentacion aqui](https://github.com/Fabiola-cc/phishing_detection/blob/main/Reporte_Laboratorio1_Phishing.pdf)
+Tiene el nombre de Reporte_Laboratorio1_Phishing.pdf
 
 ---
 
